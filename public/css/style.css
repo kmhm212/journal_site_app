@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+.btn-group {
+    display: flex;
+}
+label {
+    display: block;
+}
